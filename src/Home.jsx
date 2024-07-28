@@ -18,7 +18,7 @@ const Home = () => {
         <Row className="for-the-buttons">
           <Col>
             <button className="btn-1">
-              <a href="Lecturer.jsx">Lecturer?</a>
+              <a href="/Lecturer">Lecturer?</a>
             </button>
           </Col>
           <Col>
