@@ -17,15 +17,21 @@ const Home = () => {
         <h3 className="account-creation">Create an Account</h3>
         <Row className="for-the-buttons">
           <Col>
-            <button className="btn-1">Lecturer?</button>
+            <button className="btn-1">
+              <a href="Lecturer.jsx">Lecturer?</a>
+            </button>
           </Col>
           <Col>
-            <button className="btn-2">Student?</button>
+            <button className="btn-2">
+              <a href="Student.jsx">Student?</a>
+            </button>
           </Col>
         </Row>
         <h3 className="account-creation">Already have an Account?</h3>
         <Row>
-          <button className="btn-3">Login</button>
+          <button className="btn-3">
+            <a href="Login.jsx">Login</a>
+          </button>
         </Row>
       </Container>
     </>

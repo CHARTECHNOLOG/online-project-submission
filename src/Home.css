@@ -27,6 +27,7 @@
 .content .school-logo {
   align-items: center;
   width: 350px;
+  margin-bottom: 2rem;
 }
 
 .for-the-buttons .btn-1,
@@ -64,6 +65,27 @@ article {
   padding: 0.5rem 2.5rem;
   background-color: #4baafd;
   color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn-1 a {
+  text-align: center;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn-2 a {
+  text-align: center;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn-3 a {
+  text-align: center;
+  text-decoration: none;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
