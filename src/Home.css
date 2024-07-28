@@ -28,13 +28,12 @@
   align-items: center;
   width: 350px;
 }
-.for-the-buttons {
-}
+
 .for-the-buttons .btn-1,
 .btn-2 {
   outline: none;
   border: none;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 1rem;
   background-color: #4baafd;
   color: #fff;
   font-family: "Roboto", sans-serif;
