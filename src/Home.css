@@ -33,7 +33,7 @@
 .btn-2 {
   outline: none;
   border: none;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1.5rem;
   background-color: #4baafd;
   color: #fff;
   font-family: "Roboto", sans-serif;
@@ -61,7 +61,7 @@ article {
 .btn-3 {
   outline: none;
   border: none;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 2rem;
   background-color: #4baafd;
   color: #fff;
   font-family: "Roboto", sans-serif;
