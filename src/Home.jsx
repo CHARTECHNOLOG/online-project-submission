@@ -23,6 +23,10 @@ const Home = () => {
             <button className="btn-2">Student?</button>
           </Col>
         </Row>
+        <h3 className="account-creation">Already have an Account?</h3>
+        <Row>
+          <button className="btn-1">Login</button>
+        </Row>
       </Container>
     </>
   );
