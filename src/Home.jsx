@@ -23,14 +23,14 @@ const Home = () => {
           </Col>
           <Col>
             <button className="btn-2">
-              <a href="Student.jsx">Student?</a>
+              <a href="/Student">Student?</a>
             </button>
           </Col>
         </Row>
         <h3 className="account-creation">Already have an Account?</h3>
         <Row>
           <button className="btn-3">
-            <a href="Login.jsx">Login</a>
+            <a href="/Login">Login</a>
           </button>
         </Row>
       </Container>
