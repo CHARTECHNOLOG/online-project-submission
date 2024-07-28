@@ -53,8 +53,9 @@ article {
   font-weight: 400;
   font-style: normal;
 }
-.btn-1:hover,
-.btn-2:hover {
+.btn-1 a:hover,
+.btn-2 a:hover,
+.btn-3 a:hover {
   background-color: transparent;
   border: 2px solid #4baafd;
   color: #000;
