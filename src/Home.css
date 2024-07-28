@@ -58,3 +58,13 @@ article {
   border: 2px solid #4baafd;
   color: #000;
 }
+.btn-3 {
+  outline: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  background-color: #4baafd;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
