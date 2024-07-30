@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Form-Container {
+  background-color: #4baafd;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-content {
+  background-color: #fff;
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 1.5rem;
+}
