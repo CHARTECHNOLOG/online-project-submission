@@ -16,6 +16,14 @@ const Studentadmin = () => {
         <div className="second-container"></div>
         <div className="content">
           <h2>Student Portal</h2>
+
+          <div className="box">
+            <article>
+              Ensure you Provide the correct informations needed before
+              uploading your project and make sure you input the correct
+              Graduation Year
+            </article>
+          </div>
         </div>
       </Container>
     </>

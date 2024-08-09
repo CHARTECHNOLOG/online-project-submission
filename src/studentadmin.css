@@ -35,3 +35,22 @@
 .second-container {
   margin-top: 2rem;
 }
+.box {
+  height: 100vh;
+  background-color: rgb(251, 244, 236);
+  padding: 2rem;
+  border-radius: 1.5rem;
+}
+.box article {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.content h2 {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
