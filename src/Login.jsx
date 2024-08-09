@@ -18,7 +18,7 @@ const Login = () => {
             <a href="/"> Lecturer ?</a>
           </Button>
           <Button variant="primary" type="submit" className="btn-login-1">
-            <a href="/"> Student ?</a>
+            <a href="/Studentadmin"> Student ?</a>
           </Button>
         </div>
       </Container>
