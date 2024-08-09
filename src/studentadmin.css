@@ -37,7 +37,7 @@
 }
 .box {
   height: 100vh;
-  background-color: rgb(251, 244, 236);
+  background-color: rgb(255, 251, 248);
   padding: 2rem;
   border-radius: 1.5rem;
 }
@@ -48,9 +48,39 @@
 }
 .content h2 {
   margin-top: 2rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+.select-option-container,
+.footer-container {
+  background-color: #4baafd;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.footer-container {
+  margin-top: 10rem;
+  color: #fff;
+}
+.footer-container .blockquote-footer {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.footer-container p a {
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  margin: 2rem;
 }
