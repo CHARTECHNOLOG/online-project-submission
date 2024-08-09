@@ -14,10 +14,18 @@
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-family: "Roboto", sans-serif;
   font-weight: 100;
+  font-style: normal;
+}
+.Form-Container .heading-text h1 {
+  text-align: center;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 .form-content {
@@ -36,4 +44,23 @@
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+.btn-login-1 {
+  background-color: #fff;
+  color: #4baafd;
+  margin: 2rem;
+  transition: 2s linear;
+}
+.btn-login-1:hover {
+  background-color: #4baafd;
+  border: 2px solid #fff;
+}
+.btn-login-1 a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.btn-login-1 a:hover {
+  color: #fff;
 }
