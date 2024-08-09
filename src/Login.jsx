@@ -13,10 +13,10 @@ const Login = () => {
         </div>
         <div className="btn-container">
           <Button variant="primary" type="submit" className="btn-login-1">
-            <a href="/"> Login as a Lecturer</a>
+            <a href="/"> Lecturer ?</a>
           </Button>
           <Button variant="primary" type="submit" className="btn-login-1">
-            <a href="/"> Login as a Student</a>
+            <a href="/"> Student ?</a>
           </Button>
         </div>
       </Container>
