@@ -89,7 +89,7 @@ const Studentadmin = () => {
         <Card.Body>
           <blockquote className="blockquote mb-0">
             <p>
-              <a href="/Home">Hoome</a>
+              <a href="/Home">Home</a>
               <a href="/Student">Student</a>
               <a href="/Login">Login</a>
             </p>

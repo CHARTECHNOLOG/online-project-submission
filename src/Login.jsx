@@ -11,7 +11,7 @@ const Login = () => {
       <Container fluid className="Form-Container">
         <Image src={Image2} className="school-logo" />
         <div className="heading-text">
-          <h1>Choose which Account do you want to login into</h1>
+          <h1>Choose which Account you want to login into</h1>
         </div>
         <div className="btn-container">
           <Button variant="primary" type="submit" className="btn-login-1">
