@@ -15,10 +15,10 @@ const Login = () => {
         </div>
         <div className="btn-container">
           <Button variant="primary" type="submit" className="btn-login-1">
-            <a href="/"> Lecturer ?</a>
+            <a href="/LecturerLoginadmin"> Lecturer ?</a>
           </Button>
           <Button variant="primary" type="submit" className="btn-login-1">
-            <a href="/Studentadmin"> Student ?</a>
+            <a href="/StudentLoginadmin"> Student ?</a>
           </Button>
         </div>
       </Container>
